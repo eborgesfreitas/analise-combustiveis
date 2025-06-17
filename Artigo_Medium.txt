@@ -1,0 +1,40 @@
+
+# Por que o preço dos combustíveis varia tanto no Brasil? Uma análise com dados da ANP
+
+## Introdução
+Os preços dos combustíveis no Brasil têm impacto direto no custo de vida, transporte e economia. Este estudo analisa dados públicos da ANP para entender como esses preços se comportaram de 2004 a 2022.
+
+## O Dataset
+- Fonte: ANP via Kaggle
+- Dados de 2004 até 2022
+- Principais colunas: ANO_MES, ESTADO, PREÇO MÉDIO REVENDA, PREÇO MÍNIMO, PREÇO MÁXIMO, TIPO DE COMBUSTÍVEL.
+
+## Perguntas Que Guiaram a Análise
+- Como evoluem os preços?
+- Quais estados são mais caros ou baratos?
+- Gasolina x Etanol: quando compensa?
+- Diferença entre os maiores e menores preços.
+- Previsões futuras.
+
+## Análise dos Dados
+- Gráficos temporais e mapas
+- Rankings dos estados mais caros e mais baratos
+- Avaliação da competitividade do etanol
+- Dispersão de preços máximos e mínimos
+
+## Insights e Descobertas
+- Estados do Norte e Nordeste tendem a ter preços mais altos
+- Etanol é vantajoso em SP e GO na maioria dos meses
+- Crises globais impactam diretamente os preços (ex.: COVID, guerra na Ucrânia)
+- Tendência de alta após 2020
+
+## Conclusão
+O preço dos combustíveis no Brasil reflete fatores logísticos, econômicos e internacionais. Essa análise ajuda consumidores, empresas e formuladores de políticas a entenderem melhor o mercado.
+
+## Próximos Passos
+- Integrar mais variáveis como câmbio e impostos
+- Atualizar com dados futuros
+
+## Links
+- GitHub: [Seu link]
+- Dashboard: [Seu link]
