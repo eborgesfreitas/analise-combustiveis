@@ -13,7 +13,6 @@ Este projeto faz uma análise exploratória dos preços dos combustíveis no Bra
 - Quais estados apresentam os maiores e menores preços médios?  
 - Qual combustível foi mais vantajoso em termos de preço e variação?  
 - Qual a diferença entre os maiores e menores preços no Brasil mensalmente?  
-- É possível prever a tendência dos preços para os próximos meses?
 
 ## 🗂️ Tecnologias Utilizadas
 
@@ -40,7 +39,7 @@ pip install -r requirements.txt
 
 ## 📊 Dashboard
 
-Em breve: dashboard interativo no Power BI para visualização dos principais insights.
+*EM BREVE:* Um Dashboard interativo no Power BI para visualização dos principais insights.
 
 ## 📝 Licença
 
