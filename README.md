@@ -16,7 +16,7 @@ Este projeto faz uma análise exploratória dos preços dos combustíveis no Bra
 
 ## 🗂️ Tecnologias Utilizadas
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Prophet)  
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)  
 - Jupyter Notebook  
 - Power BI (dashboard interativo)  
 - Git e GitHub  
