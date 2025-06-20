@@ -10,7 +10,7 @@ Os dados foram obtidos do Kaggle no dataset:
 
 [Gas Prices in Brazil - Kaggle](https://www.kaggle.com/datasets/matheusfreitag/gas-prices-in-brazil)
 
-O arquivo principal é um arquivo `.tsv` com registros mensais dos preços de combustíveis em diversos estados brasileiros, abrangendo o período de 2004 até 2021.
+O arquivo principal é um arquivo `.tsv` com registros dos preços de combustíveis em diversos estados brasileiros, abrangendo o período de 2004 até 2021.
 
 ---
 
