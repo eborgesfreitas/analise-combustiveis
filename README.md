@@ -1,7 +1,7 @@
 # ⛽ Análise da Evolução dos Combustíveis no Brasil (2004–2021)
 
 ![Badge](https://img.shields.io/badge/Python-Data--Analysis-blue)  
-![Badge](https://img.shields.io/badge/Status-Em%20Andamento-yellow)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 Este projeto realiza uma análise exploratória da evolução dos preços dos principais combustíveis no Brasil — **Gasolina Comum, Etanol Hidratado e Diesel S10** — com base nos dados públicos disponibilizados pela **Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP)**.  
 
