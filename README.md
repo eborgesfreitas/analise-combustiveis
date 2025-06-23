@@ -44,7 +44,7 @@ O objetivo é compreender como esses preços se comportaram ao longo dos anos, a
 ├── images/                    # Gráficos e imagens geradas
 ├── requirements.txt           # Dependências do projeto
 └── README.md                  # Este arquivo
-
+```
 
 ## 📦 Como Executar
 
