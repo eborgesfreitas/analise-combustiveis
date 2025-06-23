@@ -24,9 +24,9 @@ O objetivo é compreender como esses preços se comportaram ao longo dos anos, a
 ## ⚙️ **Tecnologias e Ferramentas Utilizadas**
 - 📊 Python
 - 🐼 Pandas
+- 🧮 NumPy
 - 📈 Seaborn
 - 📊 Plotly
-- 🌍 Folium (mapas)
 - 📉 Matplotlib
 - 🧠 Jupyter Notebook
 
