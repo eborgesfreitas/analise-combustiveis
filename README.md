@@ -74,8 +74,8 @@ Este projeto está licenciado sob a licença MIT — veja o arquivo LICENSE para
 
 Feito com 💙 por Eduardo Borges Freitas
 
-🔗 LinkedIn
+[🔗 LinkedIn](https://www.linkedin.com/in/eborgesfreitas/)
 
-🔗 Medium
+[🔗 Medium](https://medium.com/@eborgesfreitas)
 
-🔗 GitHub
+[🔗 GitHub](https://github.com/eborgesfreitas)
